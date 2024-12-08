@@ -49,7 +49,6 @@ The **Generating Answers** project demonstrates the use of **Cohere's Language M
 
 ```bash
 git clone https://github.com/JTasnim/KeywordAndSemanticSearchesWithReRank.git
-cd generating-answers
 ```
 
 ### Set up environment variables
