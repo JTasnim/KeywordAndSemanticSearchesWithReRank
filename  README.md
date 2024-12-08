@@ -62,7 +62,8 @@ cd generating-answers
 
 ## Screenshot of execution results
 
-![My Project Screenshot](assets/Screenshot1.png)
+![My Project Screenshot](assets/ss2.png)
+![My Project Screenshot](assets/ss3.png)
 
 ---
 

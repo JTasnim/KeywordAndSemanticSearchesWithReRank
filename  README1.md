@@ -58,7 +58,7 @@ cd ReRank
 
 ## Screenshot of execution results
 
-![My Project Screenshot](assets/Screenshot1.png)
+![My Project Screenshot](assets/ss1.png)
 
 ---
 
