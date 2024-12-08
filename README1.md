@@ -43,8 +43,7 @@ ReRank is a project designed to improve semantic search by combining keyword-bas
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/ReRank.git
-cd ReRank
+git clone https://github.com/JTasnim/KeywordAndSemanticSearchesWithReRank.git
 ```
 
 ### **Step 2: Add API Keys**
