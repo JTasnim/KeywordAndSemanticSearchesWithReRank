@@ -48,7 +48,7 @@ The **Generating Answers** project demonstrates the use of **Cohere's Language M
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/generating-answers.git
+git clone https://github.com/JTasnim/KeywordAndSemanticSearchesWithReRank.git
 cd generating-answers
 ```
 
